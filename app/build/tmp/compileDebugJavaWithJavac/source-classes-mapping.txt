@@ -1,0 +1,2 @@
+com/geeta/unittesttutorial/BuildConfig.java
+ com.geeta.unittesttutorial.BuildConfig
